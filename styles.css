@@ -1,16 +1,14 @@
 html,
 body {
   font-size: 13px;
-  font-style:arial, sans-serif;
+  font-family: arial, sans-serif;
   height: 100%;
   margin: 0;
   padding: 0;
   width: 100%;
+  background: url(http://monroeistanbul.com/files/content/img_0021_94178.jpg) /* 0 0 / cover */
 }
 
-body {
-  background: url(http://images.gofreedownload.net/creative-graphic-background-vector-239743.jpg) /* 0 0 / cover */;
-}
 
 img {
   display: none;
