@@ -8,9 +8,18 @@ body {
 }
 
 body {
-  background: url(https://cdn.pixabay.com/photo/2017/05/29/16/41/background-2354151_1280.jpg);
+  background: url(https://cdn.pixabay.com/photo/2017/05/29/16/41/background-2354151_1280.jpg) /* 0 0 / cover */;
 }
 
 img {
   display: none;
+}
+
+ul{
+  float:right;
+}
+
+li{
+  display: inline-block;
+  padding-right:10px;
 }
