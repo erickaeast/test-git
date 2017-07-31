@@ -1,4 +1,4 @@
-var image = document.querySelector("img");
+var image = document.querySelector(".img1");
 var imageCanvas = document.createElement("canvas");
 var imageCanvasContext = imageCanvas.getContext("2d");
 var lineCanvas = document.createElement("canvas");
