@@ -62,7 +62,7 @@ li{
   float:left;
 }
 
-.sec1{
+section{
   color:#ffffff;
   background-color:#000000;
   height:300px;
@@ -72,4 +72,9 @@ li{
   color:#000000;
   background-color:#ffffff;
   height:300px;
+}
+
+#middle{
+  text-align:center;
+  padding-top:500px;
 }
