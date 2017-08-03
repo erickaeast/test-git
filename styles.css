@@ -9,15 +9,15 @@ body {
 
 }
 
-#section1{
-  background: url(http://monroeistanbul.com/files/content/img_0021_94178.jpg) /* 0 0 / cover */
-}
 
 .img1 {
   display: none;
   position: fixed;
 }
 
+.section1{
+  background: url(http://monroeistanbul.com/files/content/img_0021_94178.jpg) /* 0 0 / cover */
+}
 
 ul{
   float:right;
