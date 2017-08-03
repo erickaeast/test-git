@@ -11,7 +11,8 @@ body {
 
 
 .img1 {
-  display: block;
+  display: none;
+  position: fixed; 
 }
 
 
