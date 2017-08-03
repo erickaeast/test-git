@@ -6,13 +6,16 @@ body {
   margin: 0;
   padding: 0;
   width: 100%;
+
+}
+
+#section1{
   background: url(http://monroeistanbul.com/files/content/img_0021_94178.jpg) /* 0 0 / cover */
 }
 
-
 .img1 {
   display: none;
-  position: fixed; 
+  position: fixed;
 }
 
 
