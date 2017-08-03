@@ -7,14 +7,10 @@ body {
   padding: 0;
   width: 100%;
   background: url(http://monroeistanbul.com/files/content/img_0021_94178.jpg) /* 0 0 / cover */
-  z-index:1;
 }
-
-  /* background: url(http://monroeistanbul.com/files/content/img_0021_94178.jpg) /* 0 0 / cover */
 
 .img1 {
   display: none;
-  z-index:2;
 }
 
 ul{
