@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   width: 100%;
-  background: url(http://monroeistanbul.com/files/content/img_0021_94178.jpg) /* 0 0 / cover */
+  background: url(http://monroeistanbul.com/files/content/img_0021_94178.jpg) no-repeat; /* 0 0 / cover */
 }
 
 .img1 {
@@ -71,9 +71,4 @@ li{
   color:#000000;
   background-color:#ffffff;
   height:300px;
-}
-
-#middle{
-  text-align:center;
-  padding-top:500px;
 }
